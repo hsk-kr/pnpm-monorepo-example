@@ -1,5 +1,7 @@
 https://dev.to/lico/step-by-step-guide-sharing-types-and-values-between-react-esm-and-nestjs-cjs-in-a-pnpm-monorepo-2o2j
 
+[![Youtube Video](https://img.youtube.com/vi/h0ZL1_EW_QE/hqdefault.jpg)](https://youtu.be/h0ZL1_EW_QE)
+
 ---
 
 # Step-by-Step Guide: Sharing Types and Values Between React (ESM) and NestJS (CJS) in a PNPM Monorepo
