@@ -1,3 +1,7 @@
+https://dev.to/lico/step-by-step-guide-sharing-types-and-values-between-react-esm-and-nestjs-cjs-in-a-pnpm-monorepo-2o2j
+
+---
+
 # Step-by-Step Guide: Sharing Types and Values Between React (ESM) and NestJS (CJS) in a PNPM Monorepo
 
 pnpm is my favorite package manager. I recently started a side project and decided to use pnpm as a package manager and structure it as a monorepo. If you work alone on both frontend and backend, you might find situations where you need the same types and values on both sides. If you set up your project as a monorepo, you can add a new package and share them instead of defining them on both sides.
